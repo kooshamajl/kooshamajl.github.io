@@ -5,6 +5,7 @@ description: A basic calculator program implemented in C to perform addition, su
 tags: C, Programming, Beginner
 importance: 1
 category: education
+img: 
 ---
 
 This project implements a simple calculator in C, allowing users to perform basic arithmetic operations. It demonstrates the use of control structures and user input handling in C.

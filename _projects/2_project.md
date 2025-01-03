@@ -5,6 +5,7 @@ description: A fun game implemented in C where the player guesses a randomly cho
 tags: C, Game, Beginner
 importance: 2
 category: education
+img: 
 ---
 
 This game challenges players to guess a number randomly chosen by the computer. It's a simple yet engaging way to practice control structures and random number generation in C.

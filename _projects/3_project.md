@@ -5,6 +5,7 @@ description: A simple program to convert temperatures between Celsius and Fahren
 tags: C, Beginner, Utility
 importance: 3
 category: education
+img:
 ---
 
 This project is a simple utility program implemented in C. It allows users to convert temperatures between Celsius and Fahrenheit using a text-based interface.
