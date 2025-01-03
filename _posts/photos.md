@@ -1,0 +1,19 @@
+---
+layout: post
+title: "Basics of Web Design"
+description: "Understanding the fundamentals of HTML and CSS for creating modern web pages."
+tags: image, random photo, CS
+---
+
+## Image Slider
+
+This is a simple image slider.
+
+<swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true">
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/post.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/7.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/8.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/1.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+  <swiper-slide>{% include figure.liquid loading="eager" path="assets/img/2.jpg" class="img-fluid rounded z-depth-1" %}</swiper-slide>
+</swiper-container>
+
