@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: c:\Users\koosh\Downloads\DALL·E 2025-01-03 17.11.56 - A professional and artistic profile image related to computer engineering. The image features abstract elements like a circuit board pattern, binary c.jpg
+  image: profile.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
